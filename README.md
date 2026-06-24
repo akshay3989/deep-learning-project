@@ -2,7 +2,7 @@ Deep Learning for Image Processing Tutorial
 Preface
 
 This tutorial summarizes my research during graduate school, and I hope it can help more people learn. I will continue sharing new knowledge as I learn it.
-The tutorial is shared in video format, following this teaching flow: 1) Introduce the network architecture and innovations 2) Build and train the network using PyTorch 3) Build and train the network using TensorFlow (Keras module)
+The tutorial is shared, following this teaching flow: 1) Introduce the network architecture and innovations 2) Build and train the network using PyTorch 3) Build and train the network using TensorFlow (Keras module)
 All course PPT slides are placed in the course_ppt folder for download.
 
 
